@@ -5,7 +5,6 @@ from telebot import types
 import random
 import time
 import socket
-import signal
 import sys
 
 def check_internet():
